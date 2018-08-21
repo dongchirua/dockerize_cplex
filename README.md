@@ -8,6 +8,7 @@ This repository is to dockerize free version for personal purpose to use locally
 # Usague
 Register and download from [here](https://www.ibm.com/products/ilog-cplex-optimization-studio/pricing) then save to the folder of this repository. For example,
 
+```
 ✗ tree .
 .
 ├── Dockerfile
@@ -15,3 +16,4 @@ Register and download from [here](https://www.ibm.com/products/ilog-cplex-optimi
 ├── README.md
 ├── cplex_studio12.7.1.linux-x86-64.bin
 └── installer.properties
+```
